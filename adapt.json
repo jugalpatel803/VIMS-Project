@@ -1,0 +1,579 @@
+{
+  "nodes": [{
+    "name": "Virginia Sea Grant",
+    "Sector": "Academia",
+    "link": "http://vaseagrant.vims.edu/",
+    "description": "The Virginia Sea Grant Program supports a wide range of activities addressing coastal community resilience and adaptation to sea level rise and climate change, including:\n\nProvided research funding of innovative public engagement and deliberation strategies for contentious climate change and adaptation issues through the George Mason University's Center for Climate Change Communication and their research team including Dewberry, the Naval Academy, and the Anne Arundel County Community College. The team evaluated and developed open-source visualization software and public deliberative polling guidance.\n\nCurrently funding and co-hosting the Hampton Roads Adaptation Forum with Old Dominion University and the Hampton Roads Planning District Commission. The Forum is a regular meeting among local government officials, federal facility managers, and university researchers to discuss the best available science and best management practices for adaptation.\n\nCurrently funding VASG Law Fellows to work with the VCPC on legal and policy research on local government authorities, jurisdictions and options related to climate change\n\nFunded community listening sessions throughout several Hampton Roads communities (particularly SE Virginia, Eastern Shore, and Middle Peninsula) and a planning evaluation in the City of Virginia Beach through the University of Virginia's Institute for Environmental Negotiation and the Department of Planning \n\nEntered MOUs to support students and faculty in the Virginia Coastal Policy Clinic (VCPC) and to co-fund a Faculty of Practice member with Old Dominion University to conduct climate science synthesis and outreach to the Hampton Roads region. VCPC is now part of the National Sea Grant Law Network, consisting of a dozen legal programs providing advisory services and outreach to decision-makers nation-wide through the state Sea Grant programs. The Faculty of Practice becomes a member of the National Sea Grant Climate Network, a professional network of climate outreach staff sharing best practices and lessons learned nation-wide. ",
+    "contact": "Troy Hartley\nthartley@vims.edu\n804-684-7248",
+    "reports": "Future Coast\nhttp://www.futurecoast.info/\n\nHampton Roads Adaptation Forum\nhttp://vaseagrant.vims.edu/coastal-flooding-072013/\n\nLaw Fellows at Virginia Coastal Policy Clinic\nhttp://vaseagrant.vims.edu/summer-law-fellows-join-coastal-policy-clinic/\n\nCommunity Listening Sessions\nhttp://news.virginia.edu/content/uva-institute-assists-citizens-sea-level-rise-issues-virginias-coast?id=19402",
+    "id": "0",
+    "projects": ""
+  }, {
+    "name": "Georgetown University Climate Center",
+    "Sector": "Academia",
+    "link": "http://www.georgetownclimate.org/virginia-case-study-stemming-the-tide-how-local-governments-can-manage-rising-flood-risks",
+    "description": "Georgetown Climate Center seeks to advance effective climate policies in the United States. The Center completed a Virginia Case Study Stemming the Tide: How Local Governments Can Manage Rising Flood Risks which analyzes the authority of Virginia local governments to use existing land use regulations to adapt to sea level rise impacts. The Center is assisting Virginia localities connect with climate scientists to develop strategies for effectively communicating about climate change vulnerabilities and building more resilient communities. The Center will also be releasing, in September 2014, an online tool that will allow users to explore Virginia's progress in implementing its Climate Change Action Plan and local and regional activities to prepare for climate change.",
+    "contact": "Jessica Grannis\njcg68@law.georgetown.edu\n202-661-6954",
+    "reports": "",
+    "id": "1",
+    "projects": ""
+  }, {
+    "name": "Old Dominion University Mitigation and Adaptation Research Institute",
+    "Sector": "Academia",
+    "link": "http://www.mari.odu.edu/",
+    "description": "Mitigation and Adaptation Research Institute is developing several activities related to mitigation of climate change impacts and adaptation to climate change and sea level rise including new courses, certificates and, eventually, new degrees. ODU also has a Climate Change and Sea Level Rise Initiative that facilitates research, education and regional collaboration on a range of issues including the Hampton Roads Sea Level Rise/Flooding Adaptation Forum.",
+    "contact": "Hans Peter Plag \nhpplag@odu.edu\n757-683-5335",
+    "reports": "",
+    "id": "2",
+    "projects": ""
+  }, {
+    "name": "Old Dominion University Intergovernmental Pilot Project",
+    "Sector": "Academia",
+    "link": "http://www.centerforsealevelrise.org/",
+    "description": "In concert with the National Security Council (and others),ODU has launched the pilot'whole of government' project. The approach aims to better organize federal, state and local government, as well as partners in the private sector and academia to combat impacts of sea level rise and climate change.",
+    "contact": "Ray Toll\nrtoll@odu.edu",
+    "reports": "",
+    "id": "3",
+    "projects": ""
+  }, {
+    "name": "Old Dominion University Modeling, Analysis and Simulation Center",
+    "Sector": "Academia",
+    "link": "http://www.coopercenter.org/sites/default/files/publications/Virginia%20News%20Letter%202014%20Vol.%2090%20No%202_0.pdf",
+    "description": "Focusing on work at ODU's Virginia, Modeling, Analysis and Simulation Center, Weldon Cooper Center for Public Service released research report entitled 'Hurricane Preparedness: Community Vulnerability and Medically Fragile Populations.'",
+    "contact": "Joshua Behr\njbehr@odu.edu\n757-638-6564",
+    "reports": "",
+    "id": "4",
+    "projects": ""
+  }, {
+    "name": "William and Mary Coastal Policy Center",
+    "Sector": "Academia",
+    "link": "http://law.wm.edu/academics/programs/jd/electives/clinics/vacoastal/index.php",
+    "description": "The Law School at the College of William and Mary has started a Coastal Policy Clinic to work with localities and VIMS on the legal issues surrounding implementation of sea level rise adaptation.",
+    "contact": "Roy Hoagland\nrahoagland@wm.edu\n757-221-7404",
+    "reports": "",
+    "id": "5",
+    "projects": ""
+  }, {
+    "name": "University of Virginia Institute for Environmental Negotiation",
+    "Sector": "Academia",
+    "link": "http://ien.arch.virginia.edu/",
+    "description": "Institute for Environmental Negotiation has been conducting community-based research and outreach for coastal communities (listening sessions, focus groups, workshops) to help them adapt to sea level rise and enhance their resilience.",
+    "contact": "Franklin Dukes\ned7k@virginia.edu\n757-924-2041",
+    "reports": "Virginia Working Waterfronts workshop (2014):\nhttp://www.vims.edu/GreyLit/VIMS/mrr14-08.pdf\n\nProtecting Water Quality Through Actions on Urban-Suburban Properties (2013): Tackling issues regarding sea level rise impacts on storm water management: \nhttp://ien.arch.virginia.edu/clients/federal-government/a-collaborative-summit",
+    "id": "6",
+    "projects": ""
+  }, {
+    "name": "Virginia Institute of Marine Science Center for Coastal Resources Management",
+    "Sector": "Academia",
+    "link": "http://ccrm.vims.edu/",
+    "description": "Virginia Institute of Marine Science- The Center for Coastal Resources Management (CCRM) develops and supports integrated and adaptive management of coastal zone resources. To fulfill this mission, the Center undertakes research, provides advisory service, and conducts outreach education.",
+    "contact": "Carl Hershner\ncarl@vims.edu\n804-684-7387",
+    "reports": "TideWatch (and the Real-Time Storm Tide Observation and Forecast System) is an online, real-time water level monitoring tool developed by VIMS researchers. It provides information that can help predict the magnitude of coastal flooding in an area and allow comparison of storm tides at 9 locations within the Chesapeake Bay.\nhttp://www.vims.edu/bayinfo/tidewatch/index.php\n\nThe Recurrent Flooding Report for Tidewater and Eastern Shore localities\nhttp://www.ccrm.vims.edu/recurrent_flooding/Recurrent_Flooding_Study_web.pdf\n\nThe Comprehensive Coastal Resource Management Portal - Guidance for Tidal Shoreline Management Plans in Virginia\nhttp://www.ccrm.vims.edu/ccrmp/index.html\n\nVariety of research projects looking at ecological impacts and tools for adaptation planning\nhttp://ccrm.vims.edu/coastal_zone/climate_change/index.html\n\nDeveloping adaptation plans for localities",
+    "id": "7",
+    "projects": ""
+  }, {
+    "name": "Virginia Tech Water Resources Center",
+    "Sector": "Academia",
+    "link": "http://vawatercentralnewsgrouper.wordpress.com/category/climate-change/\n\nhttp://vwrrc.vt.edu/projects.html\n\n",
+    "description": "Virginia Tech hosts the Virginia Water Resources Research Center, one of 54 water resources research institutes located around the country as a result of the 1964 Federal Water Resources Research Act. The Virginia Water Resources Research Center features a stormwater best management practices website in collaboration with the Virginia Department of Environmental Quality and compiles climate-change articles and sources on a Water News blog. Virginia Tech's Environmental and Water Resources Engineering Program has been examining impacts of sea level rise and climate change on coastal flooding and is introducing a new focus on coastal engineering.",
+    "contact": "Stephen Schoenholtz\nstephen.schoenholtz@vt.edu \n540-231-0711",
+    "reports": "",
+    "id": "8",
+    "projects": ""
+  }, {
+    "name": "Back Bay Restoration Foundation",
+    "Sector": "Non-Governmental Organization",
+    "link": "http://www.bbrf.org/",
+    "description": "Back Bay Restoration Foundation (BBRF) is working on several sea level rise projects. BBRF was recently awarded a grant through the Virginia Migratory Waterfowl Stamp Grant Project to partner with U.S. Fish and Wildlife Service and Back Bay National Wildlife Refuge to restore 340 acres of high quality emergent and forested wetland habitat, as well as maintaining 260 acres of newly established submerged aquatic vegetation through refurbishment of two water control structures damaged by burrowing animals and flanking. In addition, BBRF will be funded through the Hurricane Sandy Resiliency Grant Program to partner with several organizations to restore 3783 acres forested wetlands and establish 1650 feet of living shoreline (estuarine) in the Back Bay estuary \u0026 watershed of Virginia. BBRF also hosts the Watersheds Forum each spring to provide up to date information regarding the health of Virginia Beach's watersheds, including sea level rise.",
+    "contact": "Shannon Davis\nshannon.davis@bbrf.org",
+    "reports": "",
+    "id": "9",
+    "projects": ""
+  }, {
+    "name": "Chesapeake Climate Action Network",
+    "Sector": "Non-Governmental Organization",
+    "link": "http://chesapeakeclimate.org/",
+    "description": "Chesapeake Climate Action Network has launched their Virginia Safe Coast campaign, which regards the greater Hampton Roads area as one of the country's regions most vulnerable to sea-level rise. The campaign has demanded immediate adoption of adaptation measures to protect coastal communities and reduction of carbon emissions to slow the level of rising seas.",
+    "contact": "Mike Tidwell\nmtidwell@chesapeakeclimate.org",
+    "reports": "",
+    "id": "10",
+    "projects": ""
+  }, {
+    "name": "Climate Central",
+    "Sector": "Non-Governmental Organization",
+    "link": "http://sealevel.climatecentral.org/ssrf/virginia",
+    "description": "Climate Central conducts scientific research on climate change and informs the public nationally by way of online tools, factsheets and peer-reviewed papers. Their Surging Seas tool focuses on impacts for much of the coastal US. They have recently released their tool for Virginia, including the ability to look at flood levels and related factors such as population, income, property as well as critical infrastructure locations.",
+    "contact": "Benn Strauss\nbstrauss@climatecentral.org",
+    "reports": "",
+    "id": "11",
+    "projects": ""
+  }, {
+    "name": "Lynnhaven River Now",
+    "Sector": "Non-Governmental Organization",
+    "link": "http://www.lynnhavenrivernow.org/",
+    "description": "Lynnhaven River Now is dedicated to reducing sources of contamination in the river including nutrients, sediments, and chemicals running off of our lawns, parking lots, roadways and out of our septic systems; educating the community about how they can help to protect the Lynnhaven River; and engaging partner organizations and the community to restore and protect the lost habitats of the river such as oyster reefs, salt marshes, and other buffers that help to filter polluted runoff and protect the ecological communities of the river. \n\nThe primary goal of the Marsh Island Resiliency Task Force is to develop tested methodologies to increase the resiliency of Lynnhaven marsh islands being threatened by sea level rise through experimentation with multiple restoration techniques. The task force will test the ability of eachchosen resiliency strategy to improve resiliency of marsh islands at a high, medium, and low wave energy study sites. The living shoreline concept will be applied to island geography by restoring eroded sand and plant materials and protecting the perimeter of the islands with various substrates such as traditional rock sills, crushed concrete, oyster castles, and native mussels. All sills will be vented to allow for intertidal flow. High marsh elevations and associated plants will be emphasized as much as possible to increase resiliency to sea level rise over time. New resiliency methodologies may be applicable to other marsh island sites throughout the Chesapeake Bay Watershed.",
+    "contact": "Karen Forget\nKaren@LRNow.org",
+    "reports": "",
+    "id": "12",
+    "projects": ""
+  }, {
+    "name": "Natural Resources Defence Council",
+    "Sector": "Non-Governmental Organization",
+    "link": "http://www.nrdc.org/water/readiness/water-readiness-report.asp\n\nhttp://www.nrdc.org/water/thirstyforanswers.asp",
+    "description": "The Natural Resources Defense Council (NRDC) researches and advocates to protect water resources nationally. In a 2012 study entitled Ready or Not: An Evaluation of State Climate and Water Preparedness Planning, NRDC ranked Virginia as one of 29 states that were \"largely unprepared and lagging behind\" on planning for climate change. NRDC made several state level recommendations to build resilience to future climate impacts. NRDC referenced a study by researchers at Sandia National Laboratories that estimates between 2010 and 2050, Virginia could lose more than $45 billion in GDP and more than 314,000 jobs due to climate change impacts on employment, personal income, and interstate migration. NRDC also discussed the climate risks and vulnerabilities of Norfolk in a 2011 study entitled Thirsty for Answers: Preparing for the Water-related Impacts of Climate Change in American Cities.",
+    "contact": "Ben H. Chou\nbchou@nrdc.org\n310-434-2350",
+    "reports": "",
+    "id": "13",
+    "projects": ""
+  }, {
+    "name": "The Nature Conservancy",
+    "Sector": "Non-Governmental Organization",
+    "link": "http://coastalresilience.org/",
+    "description": "The Nature Conservancy has launched adaptation projects regarding the Eastern Shore ofVirginia, conducting the Eastern Shore Climate Adaptation Strategies Workshop in 2010 and developing a 2011 report on Strategies for Adapting to Climate Change for the Eastern Shore of Virginia. Their 2014 Coasts at Risk: An Assessment of Coastal Risks and the Role of Environmental Solutions, also examines coastal issues and environmental solutions, with more of a global scope to it. Their Coastal Resilience Tool also allows for exploration of risk, adaptation and conservation efforts.",
+    "contact": "Gwynn Crichton\ngcrichton@TNC.ORG",
+    "reports": "",
+    "id": "14",
+    "projects": ""
+  }, {
+    "name": "Union of Concerned Scientists",
+    "Sector": "Non-Governmental Organization",
+    "link": "",
+    "description": "Union of Concerned Scientists has launched a climate impacts initiative and has continued toincrease its presence in Virginia. UCS has included Virginia in work focusing on sea level rise impacts on our cultural heritage in their National Landmarks at Risk report, as well as state specific facts related to flood insurance reform in their report on Overwhelming Risk: Rethinking Flood Insurance in a World of Rising Seas. Their 2014 Encroaching Tides report also discusses issues around increasing tidal flooding events, and includes a profile of Norfolk and discussion of Chesapeake community flooding.",
+    "contact": "Carina Barnett-Loro\nCBarnett-Loro@ucsusa.org\n\nAdam Markham\namarkham@ucsusa.org",
+    "reports": "Encroaching Tides\nhttp://www.ucsusa.org/global_warming/impacts/effects-of-tidal-flooding-and-sea-level-rise-east-coast-gulf-of-mexico#.VdeX-vlViko",
+    "id": "15",
+    "projects": ""
+  }, {
+    "name": "Wetlands Watch",
+    "Sector": "Non-Governmental Organization",
+    "link": "http://www.wetlandswatch.org/",
+    "description": "Wetlands Watch began its sea level rise work after the group realized that a major portion ofVirginia's wetlands are threatened by sea level rise, and the only way to protect those wetlands is to keep the land behind them open to allow them to migrate onto higher ground as sea levels rise. As such, the group's work has focused primarily on adaptation to sea level, participating in every major sea level rise conversation in the region, assisting local governments in addressing sea level rise, working to stop unwise development in areas likely to be affected by sea level rise, developing a toolkit for local governments to use in approaching adaptation efforts, partnering to host listening sessions in Virginia Beach and the Eastern Shore to facilitate an open public dialogue on sea level rise, assisting numerous researchers and members of the press to understand the flooding situation in Hampton Roads and increase visibility of the sea level rise problem, engaging the private sector on the problem and adaptation, and developing a study of private homeowners insurance and its potential influence on adaptation. They are also taking a look at changes to the National Flood Insurance Program (NFIP) and possible incentives for sea level rise adaptation, and a review of the NFIP's Community Rating System (CRS) and the potential for landscape and habitat approaches to flood plain management to incentivize adaptation and good floodplain management through flood insurance discounts. As well, Wetlands Watch is looking at how to generate co-benefits from green infrastructure approaches to flood plain management for stormwater pollution reduction efforts. Finally, Wetlands Watch is beginning to develop land-use education workshops for citizens to advocate for smart land use in the face of sea level rise, has recently released an app to track flooding problems at the street level and changes over time called Sea Level Rise (currently available on iPhone), and is hosting an adaptation design project to develop innovative ideas for adaptation in a Hampton Roads community.",
+    "contact": "Skip Stiles\nskip.stiles@wetlandswatch.org",
+    "reports": "Timeline of Work\nhttp://www.wetlandswatch.org/WetlandScience/SeaLevelRise/Adaptation.aspx\n\nSea Level Rise Adaptation Toolkit\nhttp://www.wetlandswatch.org/Portals/3/WW%20documents/sea-level-rise/ASCE%20Meeting%20Paper.pdf\n\nPrivate Homeowners Insurance and Adaptation\nhttp://www.wetlandswatch.org/WetlandScience/SeaLevelRise/PrivateInsurance.aspx\n\nHomeowners Guide to Flood Insurance\nhttp://www.wetlandswatch.org/WetlandScience/SeaLevelRise/FloodInsurance.aspx\n\nTidewater Resiliency Design Challenge\nhttp://www.wetlandswatch.org/Portals/3/WW%20documents/Publications/Tidewater%20Rising%20Resiliency%20Design%20Challenge%20May%202015.pdf",
+    "id": "16",
+    "projects": ""
+  }, {
+    "name": "World Resources Institute",
+    "Sector": "Non-Governmental Organization",
+    "link": "http://www.wri.org/sites/default/files/wri_factsheet_virginia_final.pdf",
+    "description": "World Resources Institute (WRI) focuses on the intersection of the environment and socioeconomic development. Their research works to translate ideas into action, working globally with governments, business, and civil society to build transformative solutions that protect the earth and improve people's lives. WRI recently released a fact sheet on sea level rise and its impact on Virginia and has been involved with a number of recent discussions tackling flooding in the Commonwealth.",
+    "contact": "Christina Deconcini\nCDeconcini@wri.org",
+    "reports": "",
+    "id": "17",
+    "projects": ""
+  }, {
+    "name": "The Hampton Roads Transportation Planning Organization",
+    "Sector": "Commonwealth of Virginia",
+    "link": "http://www.hrtpo.org/uploads/docs/Roadways%20Serving%20the%20Military%20\u0026%20Sea%20Level%20Rise-Storm%20Surge%20DRAFT%20Report.pdf",
+    "description": "The Hampton Roads Transportation Planning Organization issued a study in July 2013 entitled Hampton Roads Military Transportation Needs Study: Roadways Serving the Military and Sea Level Rise/Storm Surge that estimates impacts from sea level rise and storm surge to the network of highways and roads serving area military installations.",
+    "contact": "Sam S. Belfieldemailed\nsbelfield@hrtpo.org\n757-420-8300",
+    "reports": "Military Transportation Needs\nhttp://www.hrtpo.org/page/military-transportation-needs/\n\nVirginia's long range transportation plan\nhttp://www.vtrans.org/resources/Natural_and_Human_Environment.pdf\nhttp://hrtpo.org/uploads/docs/Section_4_Transportation_Challenges.pdf",
+    "id": "18",
+    "projects": ""
+  }, {
+    "name": "Virginia Department of Conservation and Recreation",
+    "Sector": "Commonwealth of Virginia",
+    "link": "http://www.dcr.virginia.gov/dam_safety_and_floodplains/floodplain-index.shtml",
+    "description": "VA Department of Conservation and Recreation develops and implements education programs regarding the NFIP program and flood insurance as well as hosts the Virginia Flood Risk Information System aimed at making flood hazard data available to the public.",
+    "contact": "Robert Bennett\nrobert.bennett@dcr.virginia.gov\n804-786-3914",
+    "reports": "",
+    "id": "19",
+    "projects": ""
+  }, {
+    "name": "Virginia Department of Emergency Management",
+    "Sector": "Commonwealth of Virginia",
+    "link": "http://www.vaemergency.gov/news/news-releases/2013/mobile-app-ready",
+    "description": "VA Department of Emergency Management mitigation staff support local communities in creation of Hazard Mitigation proposals regarding repetitive loss and severe repetitive loss properties as well as the direct development of Hazard mitigation plans and their implementation. Currently there are approximately $20 million in open FEMA HMA projects in the Commonwealth. The department released the Be Mobile Ready free emergency preparedness app at the beginning of this year.",
+    "contact": "Mark Slauter\nMark.slauter@vdem.virginia.gov",
+    "reports": "",
+    "id": "20",
+    "projects": ""
+  }, {
+    "name": "Virginia Department of Environmental Quality Office of Water Supply",
+    "Sector": "Commonwealth of Virginia",
+    "link": "http://www.deq.virginia.gov/Programs/Water/WaterSupplyWaterQuantity.aspx",
+    "description": "VA Department of Environmental Quality's Office of Water Supply has been conducting research on the land subsidence that can be accounted for from groundwater pumping and its significant contribution to sea-level rise. The report should be completed later this fall. They are also monitoring the potential for significant threats to the water supply from greater coastal flooding such as salt-water intrusion to private wells.",
+    "contact": "Scott W. Kudlas\nscott.kudlas@deq.virginia.gov",
+    "reports": "",
+    "id": "21",
+    "projects": ""
+  }, {
+    "name": "Virginia Coastal Zone Management Program",
+    "Sector": "Commonwealth of Virginia",
+    "link": "http://www.deq.state.va.us/Programs/CoastalZoneManagement.aspx",
+    "description": "Virginia Coastal Zone Management Program is Virginia's coastal communities face a range of climate-related threats including rising water levels, more frequent and stronger hurricanes and storms, changes in precipitation patterns and warmer air and water temperatures. These changes will affect coastal habitats and the livelihoods and lifestyles of coastal residents. The most publicized change is the expected rise in sea level, which is predicted to be at least two feet within the next 100 years, or double the rate from the past century. The region has added vulnerability because it is also gradually subsiding as a result of geologic changes related to the last ice age. As a result, Virginia faces the highest rate of relative sea level rise on the East Coast. Recognizing the potential severity of these changes, The Virginia Coastal Zone Management Program has undertaken a number of initiatives to help coastal communities adapt to the climate change impacts that now appear inevitable. Efforts have included a multiyear initiative to promote 'living shorelines' to help mitigate wetland loss from sea level rise, public education projects, and funding for Virginia's eight planning district commissions (PDCs).",
+    "contact": "Shep Moon\nShep.Moon@deq.virginia.gov",
+    "reports": "",
+    "id": "22",
+    "projects": ""
+  }, {
+    "name": "Accomack-Northampton Plannind District Commission",
+    "Sector": "Commonwealth of Virginia",
+    "link": "http://a-npdc.org/wordpress/",
+    "description": "The Accomack-Northampton Planning District Commission (Eastern Shore) coordinates a Climate Adaptation Working Group comprised of 31 local, state, and federal government agencies and NGOs. The group meets quarterly to develop public outreach projects and planning tools and offers networking opportunities amongst participating agencies. The group is utilizing new LiDAR coverage for the Eastern Shore to enhance its educational and planning efforts. In addition, the A-NPDC will be conducting a Transportation Infrastructure Inundation Vulnerability Assessment (funded by VCZM for FY14) to evaluate roadway vulnerability to sea level rise using recently acquired LiDAR data for region. Finally, the ESVA Coastal Change Archive, a compilation of local accounts of changes resulting from recurrent flooding/sea level rise, is currently underway.",
+    "contact": "Curtis Smith\ncsmith@a-npdc.org",
+    "reports": "",
+    "id": "23",
+    "projects": ""
+  }, {
+    "name": "Hampton Roads Planning District Commission",
+    "Sector": "Commonwealth of Virginia",
+    "link": "http://www.hrpdcva.gov/Documents/Phys%20Planning/2012/HRPDC_ClimateChangeReport2012_Full_Reduced.pdf",
+    "description": "The Hampton Roads Planning District Commission (HRPDC) Coastal Resiliency Initiative has included four projects to document the projected impacts of climate change and develop a strong partnership to respond to this issue. Efforts have focused on mapping various levels of sea level rise and storm surge and the public infrastructure, neighborhoods and coastal resources that would be affected. The projects have involved public outreach and education, ways to incorporate sea level rise adaptation into local plans, and adaptive management measures to address sea level rise. The PDC has also applied for funding for two more projects: a pilot climate change adaptation plan for the City of Virginia Beach, and an initiative to provide planning and technical assistance to localities in the region. Climate Change in Hampton Roads Phase III: Sea Level Rise in Hampton Roads study.",
+    "contact": "Benjamin McFarlane\nbmcfarlane@hrpdcva.gov\n757-420-8300",
+    "reports": "",
+    "id": "24",
+    "projects": ""
+  }, {
+    "name": "Middle Peninsula Planning District Commission",
+    "Sector": "Commonwealth of Virginia",
+    "link": "http://www.mppdc.com/articles/service_centers/EnvironmentalCommunity%20Development/Phase_3_Climate_Change.pdf",
+    "description": "The Middle Peninsula Planning District Commission initially focused their three-year project on identifying potential impacts of climate change and sea level rise and assessed the associated economic and ecologic losses. Phase 2 aimed to understand the social perceptions on the topic within the region, while Phase 3 continued outreach efforts geared toward the general public and elected officials and also developed a START (Start Adaptation and Response Today) kit which organized information that localities can consider when addressing potential climate change and sea level rise impacts. The START kit includes: (1) local scientific data (2) Kaiser' Permanente Natural Hazard Vulnerability Assessment Tool results from the Middle Peninsula, (3) local, state, national, and international case studies, as well as (4) sample adaptation ordinances from other communities. Initiating Adaptation Public Policy Development study.",
+    "contact": "Lewie Lawrence\nllawrence@mppdc.com\n804-758-2311",
+    "reports": "",
+    "id": "25",
+    "projects": ""
+  }, {
+    "name": "Northern Virginia Regional Commission",
+    "Sector": "Commonwealth of Virginia",
+    "link": "https://www.novaregion.org/",
+    "description": "Northern Virginia Regional Commission Sustainable Shorelines and Community Management Project is a collaborative planning effort between the localities, major landholders, and universities in Northern Virginia that border the tidal Potomac River. The project regionalizes planning efforts for relative sea level rise and storm surge, along Northern Virginia's approximate 100 miles of tidal shoreline. This three-phase project, includes an inventory of existing data resources and policies for natural and man-made resources to identify data needs, and to understand current local shoreline management plans and regulations. The project also includes maps identifying shoreline vulnerability and strategies for adaptation and communication of project outcomes. A workgroup to guide and inform the project was formed consisting of representatives from local, state, and federal government agencies, colleges and universities, and other regional stakeholders.",
+    "contact": "Mark Gibb\ngmg@novaregion.org\n703-642-4646",
+    "reports": "",
+    "id": "26",
+    "projects": ""
+  }, {
+    "name": "Virginia Silver Jackets",
+    "Sector": "Commonwealth of Virginia",
+    "link": "http://silverjackets.nfrmp.us/",
+    "description": "The Virginia Silver Jackets team brings individuals from different agencies together to facilitate collaboration, share information, and leverage resources to identify and implement solutions to reduce flood hazards. It works on flood observation and warning systems, planning, flood hazard mapping, flood hazard mitigation, dams, and flood response and recovery activities. The Virginia Team currently includes staff from the Army Corps of Engineers, Virginia Department of Emergency Management, Virginia Department of Conservation and Recreation, Natural Resources Conservation Service, Federal Emergency Management Agency, National Weather Service, and U.S. Geological Survey.",
+    "contact": "Michelle Hamor\nmichelle.l.hamor@usace.army.mil\n\nMark Slaughter\nMark.slauter@vdem.virginia.gov",
+    "reports": "",
+    "id": "27",
+    "projects": ""
+  }, {
+    "name": "The Recurrent Flooding Sub-Panel",
+    "Sector": "Commonwealth of Virginia",
+    "link": "http://www.norfolk.gov/DocumentCenter/View/17786",
+    "description": "The Recurrent Flooding Sub-Panel of the Virginia General Assembly Secure Commonwealth Panel consisted of a collective effort by government officials, scientists, business leaders and NGOs to develop recommendations for tackling sea level rise and recurrent flooding in coastal Virginia. The sub-panel was instituted to build on the previous VIMS Recurrent Flood Study to contribute to the Secure Commonwealth Panel's ability to report on related emergency preparedness on the issue. The strategic Virginia-specific effort focused on local legal authority, state and federal support, framework and processes, data and mapping availability, project criterion and prioritization, and outreach on the issue.",
+    "contact": "Jim Reddick\nJames.Redick@norfolk.gov",
+    "reports": "",
+    "id": "28",
+    "projects": ""
+  }, {
+    "name": "The General Assembly Joint Subcommittee on Recurrent Flooding",
+    "Sector": "Commonwealth of Virginia",
+    "link": "http://dls.virginia.gov/interim_studies_flooding.html",
+    "description": "The General Assembly Joint Subcommittee on Recurrent Flooding was established by HJR16/SJR3 to develop a coordinated and comprehensive plan for the state to address recurrent flooding. Headed by the chair Delegate Chris Stolle, and the Vice Chair Senator Mamie Locke, the subcommittee has begun to consider policies that protect Virginia's citizens, property, businesses, and natural resources. The review is tasked with issuing both short and long-term plans to reduce recurrent flooding's effects on the Commonwealth.",
+    "contact": "Jeff Sharp\n804-786-3591 ext. 213",
+    "reports": "",
+    "id": "29",
+    "projects": ""
+  }, {
+    "name": "The Virginia Governor's Climate Change Commission",
+    "Sector": "Commonwealth of Virginia",
+    "link": "http://www.sealevelrisevirginia.net/main_CCC_files/",
+    "description": "The Virginia Governor's Climate Change Commission (2008) laid out a detailed adaptation plan for the state in 2008. The only elements of which have been implemented with federal mapping efforts and two legislative initiatives. Governor McAuliffe's has restored the commission on Climate Change and Resiliency, who's efforts are currently underway.",
+    "contact": "",
+    "reports": "",
+    "id": "30",
+    "projects": ""
+  }, {
+    "name": "White House",
+    "Sector": "Federal",
+    "link": "https://www.whitehouse.gov/administration/eop/ceq/initiatives/resilience\n\nhttp://www.performance.gov/node/3406/view?view=public#overview",
+    "description": "Under Executive Order 13514, President Obama directed Federal agencies to release Climate Change Adaptation Plans, outlining strategies to reduce the vulnerability of Federal programs, assets, and investments to the impacts of climate change, such as sea level rise or more frequent or severe extreme weather.",
+    "contact": "",
+    "reports": "",
+    "id": "31",
+    "projects": ""
+  }, {
+    "name": "United States Environmental Protection Agency",
+    "Sector": "Federal",
+    "link": "http://water.epa.gov/infrastructure/watersecurity/climate/creat.cfm",
+    "description": "Climate Resilience Evaluation \u0026 Awareness Tool (CREAT) a software tool to assist drinking water and wastewater utility owners and operators in understanding potential climate change threats and in assessing the related risks at their individual utilities.",
+    "contact": "",
+    "reports": "",
+    "id": "32",
+    "projects": ""
+  }, {
+    "name": "The Federal Emergency Management Agency",
+    "Sector": "Federal",
+    "link": "www.fema.gov",
+    "description": "The Federal Emergency Management Agency (FEMA) has a number of resources regarding flood hazards including: \n\n1) Risk Assessment, Mapping and Planning Partners (RAMPP) provides updated Digital Flood Insurance Rate Maps (DFIRM)--counties are at various levels of completion. RAMPP also provides hazard risk assessment and mitigation services (planning, outreach, etc.) and operate Regional Support Centers.\n\n2) Risk MAP provides mapping of flood potential, risk assessment and potential mitigation strategies. Virginia maps are currently in progress. \n\n3) The Hazard Mitigation Grant Program provides state and local governments funding to implement long-term hazard mitigation measures following a major disaster. It requires a positive cost-benefit analysis and can be used for property specific (e.g. house elevation) as well as larger scale (e.g. levee) projects. \n\n4) The Pre-Disaster Mitigation Grant Program provides states, territories, Indian tribal governments, communities and universities funding for hazard mitigation planning and implementation that reduces risk to people and structures. \n\n5) Funding to reduce flood losses includes Flood Mitigation Assistance to implement flood reduction measures, Severe Repetitive Loss Grants to reduce or eliminate longterm risk of flood damage to severe repetitive loss structures, and Repetitive Flood Claims Grants to reduce flood damages to NFIP properties with 1+ claims.\n\n6) Virginia Disaster Declarations with Preliminary Disaster Reports. \n\n7) The Biggert-Waters NFIP reform act of 2012 (Sections 100215 \u0026 100216) allows FEMA to consider impacts of future sea level rise, development, storm surge, hurricanes on flood risk when updating maps.",
+    "contact": "",
+    "reports": "Mapping Status\nhttps://www.rampp-team.com/va.htm\n\nFlood potential, risk assessment, and potential mitigation strategies\nhttp://www.fema.gov/risk-mapping-assessment-and-planning-risk-map\n\nHazard Mitigation Grant Program\nhttp://www.fema.gov/hazard-mitigation-grant-program\n\nPre-Disaster Mitigation Grant Program\nhttp://www.fema.gov/pre-disaster-mitigation-grant-program\n\nVirginia Disaster Declarations\nhttp://www.fema.gov/states/virginia\n\nBiggert-Waters Flood Insurance Reform Act of 2012 Timeline\nhttps://www.fema.gov/media-library/assets/documents/31946",
+    "id": "33",
+    "projects": ""
+  }, {
+    "name": "The Federal Highway Administration",
+    "Sector": "Federal",
+    "link": "http://www.fhwa.dot.gov/environment/climate_change/",
+    "description": "The Federal Highway Administration selected the Hampton Roads area as one of five regions to test a pilot model for conducting a climate change vulnerability and risk assessment of transportation infrastructure in coordination with the Virginia Department of Transportation, HRPDC, the Hampton Roads Transportation Planning Organization, and the University of Virginia.",
+    "contact": "",
+    "reports": "",
+    "id": "34",
+    "projects": ""
+  }, {
+    "name": "The Government Accountability Office",
+    "Sector": "Federal",
+    "link": "http://www.gao.gov/highrisk/overview",
+    "description": "The Government Accountability Office issued several studies related to SLR: \n\n1) 'Future Federal Adaptation Efforts Could Better Support Local Infrastructure Decision Makers' that cites Hampton Roads military facilities as examples. \n\n2) Over recent years the GAO has also highlighted the financial risks associated with the continued operation of the National Flood Insurance Program, adding it to its High Risk list since 2006. Recent reforms, such as inclusion of future sea level change in the Biggert-Waters Reform Act of 2012 and financial reforms may help reduce the public's exposure if effectively implemented but will take time.\n\n3) The 'Improve Infrastructure Planning and Processes to Better Account for Potential Impacts' report recommends that DOD develop a plan and milestones for completing climate change vulnerability assessments of installations; provide further information to installation planners, clarifying actions that should be taken to account for climate change in planning documents; and clarify the processes used to compare military construction projects for funding, to include consideration of potential climate change impacts.",
+    "contact": "",
+    "reports": "Future Federal Adaptation Efforts Could Better Support Local Infrastructure Decision Makers\nhttp://www.gao.gov/products/GAO-13-242\n\nHigh Risk Series Report\nhttp://www.gao.gov/assets/660/652133.pdf\n\n'Improve Infrastructure Planning and Processes to Better Account for Potential Impacts' Report \nhttp://www.gao.gov/products/GAO-14-446",
+    "id": "35",
+    "projects": ""
+  }, {
+    "name": "The US Geological Survey",
+    "Sector": "Federal",
+    "link": "http://conserveonline.org/workspaces/e-shore-va-cc-adaptation/documents/eastern-shore-lidar-working-group",
+    "description": "The US Geological Survey (USGS) is a coalition of local governments and organizations in SE Virginia are working with USGS to get the last segment of Lidar mapping (high resolution digital maps with a 10cm vertical resolution) done for Hampton Roads. When complete, Virginia will have a continuous set of these Lidar maps for all tidal Virginia. The Nature Conservancy raised funds and paid $100,000 to map the entire eastern shore in Lidar.",
+    "contact": "",
+    "reports": "Hurricane Sandy Rebuilding Strategy\nhttp://portal.hud.gov/hudportal/documents/huddoc?id=HSRebuildingStrategy.pdf",
+    "id": "36",
+    "projects": ""
+  }, {
+    "name": "The U.S. Department of Housing",
+    "Sector": "Federal",
+    "link": "http://portal.hud.gov/hudportal/HUD?src=/program_offices/comm_planning/environment/redirect",
+    "description": "The U.S. Department of Housing (HUD)'s guidance associated with Executive Order 11988 requires that projects requesting federal assistance must be outside the base floodplains in order to avoid adverse impacts from floodplain development.",
+    "contact": "",
+    "reports": "",
+    "id": "37",
+    "projects": ""
+  }, {
+    "name": "National Aeronautics and Space Administration",
+    "Sector": "Federal",
+    "link": "http://climate.nasa.gov/solutions/adaptation-mitigation/",
+    "description": "NASA's two Virginia facilities (Langley Research Center and Wallops Island Launch complex) are conducting complete climate change evaluations to determine the challenges posed to continued operations. \n\n1) Wallops Flight Facility \n\n2) Langley Research Center hosted an \"Adapting Now to a Changing Climate\" workshop aimed at Langley planners, safety and security personnel and utility companies. Similar workshops are planned at every NASA center as part of an agency-wide climate risk management initiative.",
+    "contact": "",
+    "reports": "Managing Effects of Climate Change At NASA's Wallops Flight Facility \n \n http://www.c3p.org/Workshop%202010/Thursday%20Nov%204/13-Carolyn_Turner_-_Managing_Effects_of_Climate_Change-WFFTurner.pdf \n \n Adapting Now to a Changing Climate\nhttp://www.nasa.gov/centers/langley/news/researchernews/rn_climateworkshop.html",
+    "id": "38",
+    "projects": ""
+  }, {
+    "name": "National Oceanic and Atmospheric Administration Coastal Services Center",
+    "Sector": "Federal",
+    "link": "http://collaborate.coast.noaa.gov/climateadaptation/default.aspx",
+    "description": "NOAA Coastal Services Center provides many resources to guide climate adaptation and action plans.",
+    "contact": "",
+    "reports": "Sea Level Rise Viewer\nhttp://coast.noaa.gov/digitalcoast/tools/slr",
+    "id": "39",
+    "projects": ""
+  }, {
+    "name": "United States Department of Transportation",
+    "Sector": "Federal",
+    "link": "",
+    "description": "U.S. Global Change Research Program issued a report on Regional Climate Impacts on the Southeast which estimates that more than 170 miles of major roads and railway and 35 percent of total port land area in Virginia would be at risk to inundation and storm surge after a nearly 2-foot rise in sea level.\n\nThe Center for Climate Change and Environmental Forecasting analyzed the impacts of sea level rise on transportation infrastructure in Virginia.",
+    "contact": "",
+    "reports": "Southeast Regional Climate Impacts\nhttp://nca2014.globalchange.gov/report/regions/southeast\n\nPotential Impacts of Global Sea Level Rise on Transportation Infrastructure\nhttp://www.worldcat.org/title/potential-impacts-of-global-sea-level-rise-on-transportation-infrastructure-phase-1-final-report-the-district-of-columbia-maryland-north-carolina-and-virginia/oclc/221685464",
+    "id": "40",
+    "projects": ""
+  }, {
+    "name": "United States Fish and Wildlife Service",
+    "Sector": "Federal",
+    "link": "http://www.slammview.org/",
+    "description": "The U.S. Fish \u0026 Wildlife Service is supporting Sea Level Affecting Marshes Model (SLAMM), a web browser-based application that provides tools for improved understanding of sea level rise",
+    "contact": "",
+    "reports": "",
+    "id": "41",
+    "projects": ""
+  }, {
+    "name": "Langley Air Force Base",
+    "Sector": "Military",
+    "link": "http://web.ornl.gov/sci/knowledgediscovery/Langley/",
+    "description": "Langley Air Force Base has started a multi-year effort to look at the impacts of sea level rise on that facility (being conducted by Battelle Northwest Laboratory). This follows an earlier assessment of its climate impact vulnerability.",
+    "contact": "Christopher Born\nchristopher.born@us.af.mil\n(757) 764-1086",
+    "reports": "",
+    "id": "42",
+    "projects": ""
+  }, {
+    "name": "United States Army Corps of Engineers",
+    "Sector": "Military",
+    "link": "",
+    "description": "USACE partners with local, state and Federal agencies to promote higher floodplain management standards. At the request of local sponsors, USACE conducts studies and when economically feasible, constructs projects to reduce flood risk and increase regional resiliency.  USACE is an invested partner in Hampton Roads regional adaptation. We, also, live and work in this area and encounter the same challenges that plague Hampton Roads.\n\nHistorically, USACE responds to requests from a local non-Federal sponsors.  Strategically, we believe that through partnership in a regional plan that meets floodplain management and flood mitigation goals within the Commonwealth of Virginia, we can collectively, 'target' and prioritize vulnerable areas that currently experience significant repetitive flood losses, to measurably reduce flood risk.  A comprehensive regional strategy, as part of a Commonwealth plan, could identify actionable steps to improve resiliency of the region, while improving the ability to compete for national funding.",
+    "contact": "Michelle Hamor\nmichelle.l.hamor@usace.army.mil",
+    "reports": "Virginia Flood Control Projects:\n\nFour Mile Run flood risk management and aquatic ecosystem restoration -- Currently in feasibility study\nhttp://www.nab.usace.army.mil/About/ProjectFactSheets.aspx\n \nStafford County stormwater infrastructure, watershed management and stormwater modeling. \nhttp://www.nab.usace.army.mil/About/ProjectFactSheets.aspx\n\nThe City of Virginia Beach is undergoing hurricane protection and beach renourishment for the city and Sandbridge is also facing beach renourishment. \n\nThe City of Norfolk has hurricane protection and beach erosion control at Willoughby Spit and Vicinity, Norfolk Hurricane Protection and Beach Erosion Control. The Pretty Lake Continuing Authorities Program (CAP), Section 205 and the Hague, CAP, Section 205. \n\nThe Norfolk Comprehensive Flood Risk Management Analysis Charette- report coming soon \n\nThe Army Corps is developing a Project Management Plan and Feasibility Cost Sharing Agreement to initiate a feasibility study for the city of Franklin regarding flood risk management. \n\nStrategic Environmental Research and Development Program (SERDP) RC-170 study is being developed as a tool to assess the vulnerabilities and mission impacts to military installations during severe weather events at given levels of sea level rise. SERDP's Resource Conservation and Climate Change program supports the development of the science, technologies, and methods needed to manage the Department of Defense installation infrastructure in a sustainable way. One area of investment is aimed at developing the models and tools necessary to understand infrastructure vulnerabilities to the impacts from climate change but the awarded grants appear to be outside Virginia. \nhttps://www.serdp-estcp.org/\n\nThe Army Corps oversees the Southeast Regional Partnership for Planning and Sustainability (SERPPAS) but the pilot projects fall outside of Virginia. 17\nhttps://www.serdp-estcp.org/\n\nComprehensive Evaluation of Projects with Respect to Sea-Level Change for the Army Corps Civil Works Programs. This online Sea Level Change Calculator produces the amount of predicted sea level change from 1992 forward.\nhttp://corpsclimate.us/ccaceslcurves.cfm",
+    "id": "43",
+    "projects": ""
+  }, {
+    "name": "Academia",
+    "Sector": "",
+    "link": "",
+    "description": "Click on organizations to view further details regarding their work.",
+    "contact": "",
+    "reports": "",
+    "id": "44",
+    "projects": ""
+  }, {
+    "name": "Federal",
+    "Sector": "",
+    "link": "",
+    "description": "Click on organizations to view further details regarding their work.",
+    "contact": "",
+    "reports": "",
+    "id": "45",
+    "projects": ""
+  }, {
+    "name": "Military",
+    "Sector": "",
+    "link": "",
+    "description": "Click on organizations to view further details regarding their work.",
+    "contact": "",
+    "reports": "",
+    "id": "46",
+    "projects": ""
+  }, {
+    "name": "Non-Governmental Organization",
+    "Sector": "",
+    "link": "",
+    "description": "Click on organizations to view further details regarding their work.",
+    "contact": "",
+    "reports": "",
+    "id": "47",
+    "projects": ""
+  }, {
+    "name": "Commonwealth",
+    "Sector": "",
+    "link": "",
+    "description": "Click on organizations to view further details regarding their work.",
+    "contact": "",
+    "reports": "",
+    "id": "48",
+    "projects": ""
+  }],
+    
+  "links": [{
+    "source": 44,
+    "target": 0
+  }, {
+    "source": 44,
+    "target": 1
+  }, {
+    "source": 44,
+    "target": 2
+  }, {
+    "source": 44,
+    "target": 3
+  }, {
+    "source": 44,
+    "target": 4
+  }, {
+    "source": 44,
+    "target": 5
+  }, {
+    "source": 44,
+    "target": 6
+  }, {
+    "source": 44,
+    "target": 7
+  }, {
+    "source": 44,
+    "target": 8
+  }, {
+    "source": 47,
+    "target": 9
+  }, {
+    "source": 47,
+    "target": 10
+  }, {
+    "source": 47,
+    "target": 11
+  }, {
+    "source": 47,
+    "target": 12
+  }, {
+    "source": 47,
+    "target": 13
+  }, {
+    "source": 47,
+    "target": 14
+  }, {
+    "source": 47,
+    "target": 15
+  }, {
+    "source": 47,
+    "target": 16
+  }, {
+    "source": 47,
+    "target": 17
+  }, {
+    "source": 48,
+    "target": 18
+  }, {
+    "source": 48,
+    "target": 19
+  }, {
+    "source": 48,
+    "target": 20
+  }, {
+    "source": 48,
+    "target": 21
+  }, {
+    "source": 48,
+    "target": 22
+  }, {
+    "source": 48,
+    "target": 23
+  }, {
+    "source": 48,
+    "target": 24
+  }, {
+    "source": 48,
+    "target": 25
+  }, {
+    "source": 48,
+    "target": 26
+  }, {
+    "source": 48,
+    "target": 27
+  }, {
+    "source": 48,
+    "target": 28
+  }, {
+    "source": 48,
+    "target": 29
+  }, {
+    "source": 48,
+    "target": 30
+  }, {
+    "source": 45,
+    "target": 31
+  }, {
+    "source": 45,
+    "target": 32
+  }, {
+    "source": 45,
+    "target": 33
+  }, {
+    "source": 45,
+    "target": 34
+  }, {
+    "source": 45,
+    "target": 35
+  }, {
+    "source": 45,
+    "target": 36
+  }, {
+    "source": 45,
+    "target": 37
+  }, {
+    "source": 45,
+    "target": 38
+  }, {
+    "source": 45,
+    "target": 39
+  }, {
+    "source": 45,
+    "target": 40
+  }, {
+    "source": 45,
+    "target": 41
+  }, {
+    "source": 46,
+    "target": 42
+  }, {
+    "source": 46,
+    "target": 43
+  }]
+}
+
