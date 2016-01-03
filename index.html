@@ -3,19 +3,22 @@
 
   <head>
       <link rel="stylesheet" href="style.css">    
-      <link href='https://fonts.googleapis.com/css?family=Buenard|Roboto' rel='stylesheet' type='text/css'>
+      <link href='https://fonts.googleapis.com/css?family=Buenard|Roboto|Yantramanav:400,100,700,900' rel='stylesheet' type='text/css'>
   </head>
 
   <body style="margin-left: 25px">
       
-    <div class= "header" style="width: 100%; height: 90px;">
-        <div class= "headline" style="width: 100%;">           
-            <p style="float: left; font-size: 3.5em; margin-bottom: 10px; margin-top: 30px; font-family: Buenard; line-height: 100%"> Virginia Adaptation </p>
-            <img src="http://www.wm.edu/news/images/_generics/logos/vims-logo-720.jpg" style="width:200px;height:120px; float: right; padding-right: 25px; opacity: 0.7; margin-top: 0px;">    
+    <div class= "header" style="width: 100%; height: 90px; margin-top: 0px;">
+        <div class= "headline" style="width: 100%; height: 100%">
+            <img src="http://www.worldatlas.com/webimage/countrys/namerica/usstates/outline/va.gif" class="smallmap" style="display: block; width:120px;height:50px; float: left; opacity: 0.65; margin-top: 15px; margin-right: 10px;">            
+            <img src="https://toolkit.climate.gov/sites/default/files/SE_vulnerability_to_SLR_12967_v3.png" class="largemap" style="border-style: solid; border-width: 2px; display: none; height: 550px; width: 598px; position: absolute; z-index: 50;">
+            <p style="float: left; font-size: 3.5em; margin-bottom: 10px; margin-top: 10px; font-family: Buenard; line-height: 100%"> Virginia Adaptation </p>
+            <img src="http://www.vims.edu/img/mobile_dark_logo.png" style="width:140px;height:35px; float: right; opacity: 0.7; margin-top: 15px; margin-right: 10px;">    
         </div>       
     </div>
-    <div class="subhead" style="width: 600px;">    
-        <p style="font-size: 0.8em; margin-bottom: 10px; opacity: 0.7; font-family: ROBOTO;"> COASTAL VIRGINIA FACES ONE OF THE FASTEST RATES OF SEA LEVEL RISE IN THE UNITED STATES. THE NETWORK VISUALIZATION BELOW DISPLAYS EFFORTS TO ADAPT IN THE REGION. </p>
+    <div class="subhead" style="width: 750px; margin-top: -20px;">    
+        <p style="line-height: 120%; font-size: 0.85em; margin-bottom: 10px; opacity: 0.7; font-family: yantramanav; font-weight: 400;"> COASTAL VIRGINIA IS AMONG THE MOST VULNERABLE REGIONS TO CLIMATE CHANGE IN THE UNITED STATES. THE NETWORK VISUALIZATION BELOW DISPLAYS CURRENT ADAPTATION EFFORTS TO SEA LEVEL RISE AND FLOODING. </p>
+        <p style="width: 450px; font-size: 0.75em; margin-bottom: 10px; opacity: 0.5; font-family: ROBOTO;">--- Click on a node to view more information about the organization. Click on the same node again to remove the dashboard. To display organizations from only certain sectors, click on the buttons below to remove their corresponding nodes.</p>
     </div>   
 <!---
   <div class="filters" style="margin-top: 0px;">
@@ -26,45 +29,45 @@
 --->    
     <div class="legend;" style="margin-top: 0px; margin-bottom: 15px;">
         
-        <div class="ngolegend">
+        <div class="ngolegend item">
             <svg height="20" width="300">
-                <circle cx="15" cy="12" r="4" stroke-width="3" fill="orange" fill-opacity="0.65" />
-                <text x="25" y="17" font-family="serif" font-size="12px">Non-Governmental Organizations</text>
+                <circle cx="15" cy="12" r="4" stroke="black" stroke-width="1" fill="orange" fill-opacity="0.6" />
+                <text x="25" y="16" font-family="serif" font-size="12px">Non-Governmental Organization</text>
             </svg>
         </div>
         
-        <div class="academialegend">
+        <div class="academialegend item">
             <svg height="20" width="300">
-                <circle cx="15" cy="12" r="4" stroke-width="3" fill="steelblue" fill-opacity="0.65" />
-                <text x="25" y="17" font-family="serif" font-size="12px">Academia</text>
+                <circle cx="15" cy="12" r="4" stroke="black" stroke-width="1" fill="steelblue" fill-opacity="0.6" />
+                <text x="25" y="16" font-family="serif" font-size="12px">Academia</text>
             </svg>
         </div>
         
-        <div class="commonwealthlegend">
+        <div class="commonwealthlegend item">
             <svg height="20" width="300">
-                <circle cx="15" cy="12" r="4" stroke-width="3" fill="green" fill-opacity="0.65" />
-                <text x="25" y="17" font-family="serif" font-size="12px">Commonwealth</text>
+                <circle cx="15" cy="12" r="4" stroke="black" stroke-width="1" fill="green" fill-opacity="0.6" />
+                <text x="25" y="16" font-family="serif" font-size="12px">Commonwealth of Virginia</text>
             </svg>
         </div>
         
-        <div class="federallegend">
+        <div class="federallegend item">
             <svg height="20" width="300">
-                <circle cx="15" cy="12" r="4" stroke-width="3" fill="red" fill-opacity="0.65" />
-                <text x="25" y="17" font-family="serif" font-size="12px">Federal</text>
+                <circle cx="15" cy="12" r="4" stroke="black" stroke-width="1" fill="red" fill-opacity="0.6" />
+                <text x="25" y="16" font-family="serif" font-size="12px">Federal</text>
             </svg>
         </div>
         
-        <div class="militarylegend">
+        <div class="militarylegend item">
             <svg height="20" width="300">
-                <circle cx="15" cy="12" r="4" stroke-width="3" fill="purple" fill-opacity="0.65" />
-                <text x="25" y="17" font-family="serif" font-size="12px">Military</text>
+                <circle cx="15" cy="12" r="4" stroke="black" stroke-width="1" fill="purple" fill-opacity="0.6" />
+                <text x="25" y="16" font-family="serif" font-size="12px">Military</text>
             </svg>
         </div>
             
     </div>      
      
     <div class="viz"></div>
-      
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>      
       <script src="script.js"></script>
       

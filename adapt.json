@@ -397,7 +397,7 @@
     "projects": ""
   }, {
     "name": "Academia",
-    "Sector": "",
+    "Sector": "Academia",
     "link": "",
     "description": "Click on organizations to view further details regarding their work.",
     "contact": "",
@@ -406,7 +406,7 @@
     "projects": ""
   }, {
     "name": "Federal",
-    "Sector": "",
+    "Sector": "Federal",
     "link": "",
     "description": "Click on organizations to view further details regarding their work.",
     "contact": "",
@@ -415,7 +415,7 @@
     "projects": ""
   }, {
     "name": "Military",
-    "Sector": "",
+    "Sector": "Military",
     "link": "",
     "description": "Click on organizations to view further details regarding their work.",
     "contact": "",
@@ -424,7 +424,7 @@
     "projects": ""
   }, {
     "name": "Non-Governmental Organization",
-    "Sector": "",
+    "Sector": "Non-Governmental Organization",
     "link": "",
     "description": "Click on organizations to view further details regarding their work.",
     "contact": "",
@@ -433,7 +433,7 @@
     "projects": ""
   }, {
     "name": "Commonwealth",
-    "Sector": "",
+    "Sector": "Commonwealth of Virginia",
     "link": "",
     "description": "Click on organizations to view further details regarding their work.",
     "contact": "",
@@ -444,136 +444,180 @@
     
   "links": [{
     "source": 44,
-    "target": 0
+    "target": 0,
+    "value": "Academia"
   }, {
     "source": 44,
-    "target": 1
+    "target": 1,
+    "value": "Academia"
   }, {
     "source": 44,
-    "target": 2
+    "target": 2,
+    "value": "Academia"
   }, {
     "source": 44,
-    "target": 3
+    "target": 3,
+    "value": "Academia"
   }, {
     "source": 44,
-    "target": 4
+    "target": 4,
+    "value": "Academia"
   }, {
     "source": 44,
-    "target": 5
+    "target": 5,
+    "value": "Academia"
   }, {
     "source": 44,
-    "target": 6
+    "target": 6,
+    "value": "Academia"
   }, {
     "source": 44,
-    "target": 7
+    "target": 7,
+    "value": "Academia"
   }, {
     "source": 44,
-    "target": 8
+    "target": 8,
+    "value": "Academia"
   }, {
     "source": 47,
-    "target": 9
+    "target": 9,
+    "value": "Non-Governmental Organization"
   }, {
     "source": 47,
-    "target": 10
+    "target": 10,
+    "value": "Non-Governmental Organization"
   }, {
     "source": 47,
-    "target": 11
+    "target": 11,
+    "value": "Non-Governmental Organization"
   }, {
     "source": 47,
-    "target": 12
+    "target": 12,
+    "value": "Non-Governmental Organization"
   }, {
     "source": 47,
-    "target": 13
+    "target": 13,
+    "value": "Non-Governmental Organization"
   }, {
     "source": 47,
-    "target": 14
+    "target": 14,
+    "value": "Non-Governmental Organization"
   }, {
     "source": 47,
-    "target": 15
+    "target": 15,
+    "value": "Non-Governmental Organization"
   }, {
     "source": 47,
-    "target": 16
+    "target": 16,
+    "value": "Non-Governmental Organization"
   }, {
     "source": 47,
-    "target": 17
+    "target": 17,
+    "value": "Non-Governmental Organization"
   }, {
     "source": 48,
-    "target": 18
+    "target": 18,
+    "value": "Commonwealth of Virginia"
   }, {
     "source": 48,
-    "target": 19
+    "target": 19,
+    "value": "Commonwealth of Virginia"
   }, {
     "source": 48,
-    "target": 20
+    "target": 20,
+    "value": "Commonwealth of Virginia"
   }, {
     "source": 48,
-    "target": 21
+    "target": 21,
+    "value": "Commonwealth of Virginia"
   }, {
     "source": 48,
-    "target": 22
+    "target": 22,
+    "value": "Commonwealth of Virginia"
   }, {
     "source": 48,
-    "target": 23
+    "target": 23,
+    "value": "Commonwealth of Virginia"
   }, {
     "source": 48,
-    "target": 24
+    "target": 24,
+    "value": "Commonwealth of Virginia"
   }, {
     "source": 48,
-    "target": 25
+    "target": 25,
+    "value": "Commonwealth of Virginia"
   }, {
     "source": 48,
-    "target": 26
+    "target": 26,
+    "value": "Commonwealth of Virginia"
   }, {
     "source": 48,
-    "target": 27
+    "target": 27,
+    "value": "Commonwealth of Virginia"
   }, {
     "source": 48,
-    "target": 28
+    "target": 28,
+    "value": "Commonwealth of Virginia"
   }, {
     "source": 48,
-    "target": 29
+    "target": 29,
+    "value": "Commonwealth of Virginia"
   }, {
     "source": 48,
-    "target": 30
+    "target": 30,
+    "value": "Commonwealth of Virginia"
   }, {
     "source": 45,
-    "target": 31
+    "target": 31,
+    "value": "Federal"
   }, {
     "source": 45,
-    "target": 32
+    "target": 32,
+    "value": "Federal"
   }, {
     "source": 45,
-    "target": 33
+    "target": 33,
+    "value": "Federal"
   }, {
     "source": 45,
-    "target": 34
+    "target": 34,
+    "value": "Federal"
   }, {
     "source": 45,
-    "target": 35
+    "target": 35,
+    "value": "Federal"
   }, {
     "source": 45,
-    "target": 36
+    "target": 36,
+    "value": "Federal"
   }, {
     "source": 45,
-    "target": 37
+    "target": 37,
+    "value": "Federal"
   }, {
     "source": 45,
-    "target": 38
+    "target": 38,
+    "value": "Federal"
   }, {
     "source": 45,
-    "target": 39
+    "target": 39,
+    "value": "Federal"
   }, {
     "source": 45,
-    "target": 40
+    "target": 40,
+    "value": "Federal"
   }, {
     "source": 45,
-    "target": 41
+    "target": 41,
+    "value": "Federal"
   }, {
     "source": 46,
-    "target": 42
+    "target": 42,
+    "value": "Military"
   }, {
     "source": 46,
-    "target": 43
+    "target": 43,
+    "value": "Military"
   }]
 }
 

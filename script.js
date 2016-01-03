@@ -1,9 +1,9 @@
 var width = 1280,
-    height = 1024;
+    height = 900;
 
 var force = d3.layout.force()
-        .charge(-1050)
-        .friction(0.65)
+        .charge(-850)
+        .friction(0.8)
         .linkDistance(150)
         .size([width, height]);
 
@@ -22,7 +22,7 @@ var color = d3.scale.category10();
 
  // <!------ JSON DATA LOAD ------->
 
-d3.json("https://api.myjson.com/bins/3hw4j", function (error, json) {
+d3.json("https://api.myjson.com/bins/1wh5f", function (error, json) {
     "use strict";
     force
         .nodes(json.nodes)
@@ -34,6 +34,9 @@ d3.json("https://api.myjson.com/bins/3hw4j", function (error, json) {
     var link = svg.selectAll(".link")
             .data(json.links)
             .enter().append("line")
+            .attr("data-type", function(d){
+              return d.value;
+            })            
             .attr("class", "link")
             .style("stroke-width", function (d) {
                 return 1;
@@ -66,6 +69,10 @@ d3.json("https://api.myjson.com/bins/3hw4j", function (error, json) {
     var node = svg.selectAll(".node")
             .data(json.nodes)
             .enter().append("g")
+            .attr("data-type", function(d){
+              return d.Sector;
+            })
+            .attr("class","node")            
             .on("mouseover", mouseover)
             .on("mouseout", mouseout)
             .on("click", function (d) {
@@ -74,20 +81,19 @@ d3.json("https://api.myjson.com/bins/3hw4j", function (error, json) {
                     dashboard.classed("open", false);
                     dashboard
                         .transition()
-                        .style("display", "none")
+                        .style("margin-left", "-375px")
                         .duration(1000);
                     dashboard.data = undefined;
                     return;
                 }
-                dashboard.data = d;
-                dashboard.classed("open", true);
-                dashboard
-                    .transition()
-                    .style("display", "inline-block")
-                    .duration(1000);         
-    
+                    dashboard.data = d;
+                    dashboard.classed("open", true);
+                    dashboard
+                        .transition()
+                        .style("margin-left", "0px")
+                        .duration(1000);
                 d3.selectAll(".text-tip").remove();
-
+                    
  //* <!------ DASHBOARD INFORMATION ------->
                 
                 dashboard.append("text")
@@ -96,7 +102,7 @@ d3.json("https://api.myjson.com/bins/3hw4j", function (error, json) {
                     .style("color", "black")
                     .style("padding", "15px")
                     .style("font-family", "roboto")
-                    .style("font-size", "20px");                
+                    .style("font-size", "20px");
                 
                 dashboard.append("text")
                     .attr("class", "text-tip").text("Description: " + d.description)
@@ -153,17 +159,16 @@ d3.json("https://api.myjson.com/bins/3hw4j", function (error, json) {
     node.append("text")
         .attr("text-anchor", "middle")
         .attr("dy", "-1em")
+        .attr("class", "title")        
         .style("font-size", 10)
-        .style("font-family", "buenard")
+        .style("font-family", "yantramanav")
+        .style("letter-spacing", 1)
+        .style("color", "gray")
+        .style("font-weight", "lighter")
         .text(function (d) {
             return d.name;
         });
     
-    node.append("title")
-        .text(function (d) {
-            return d.name;
-        });
-
  // <!------ NODE ATTRIBUTES ------->     
     
     node.append("circle")
@@ -177,21 +182,44 @@ d3.json("https://api.myjson.com/bins/3hw4j", function (error, json) {
  // <!------ PHYSICS ENGINE -------> 
     
     force.on("tick", function () {
-        link.attr("x1", function (d) {
-            return d.source.x;
-        })
-            .attr("y1", function (d) {
-                return d.source.y;
-            })
-            .attr("x2", function (d) {
-                return d.target.x;
-            })
-            .attr("y2", function (d) {
-                return d.target.y;
-            });
+        link.attr("x1", function (d) { return d.source.x; })
+            .attr("y1", function (d) { return d.source.y; })
+            .attr("x2", function (d) { return d.target.x; })
+            .attr("y2", function (d) { return d.target.y; });
 
         node.attr("transform", function (d) {
             return "translate(" + d.x + "," + d.y + ")";
         });
     });
+});
+
+// <!------- TOGGLE FILTERS -------->
+
+$(".item").click(function () {
+    $(this).toggleClass("gray");
+    var text = $(this).find("text").text()
+    if($(this).hasClass("gray")){
+       d3.selectAll(".node")
+    .filter(function(d,i){
+      return d3.select(this).attr("data-type") == text;
+    })
+    .style("opacity",0)
+       d3.selectAll(".link")
+    .filter(function(d,i){
+      return d3.select(this).attr("data-type") == text;
+    })
+    .style("opacity",0)
+    }else {
+       d3.selectAll(".node")
+    .filter(function(d,i){
+      return d3.select(this).attr("data-type") == text;
+    })
+    .style("opacity",1)
+       d3.selectAll(".link")
+    .filter(function(d,i){
+      return d3.select(this).attr("data-type") == text;
+    })
+    .style("opacity",1)
+    }
+  
 });
