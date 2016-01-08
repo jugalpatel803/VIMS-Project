@@ -9,14 +9,17 @@
   <body style="margin-left: 25px">
       
     <div class= "header" style="width: 100%; height: 90px; margin-top: 0px;">
-        <div class= "headline" style="width: 100%; height: 100%">
-            <img src="http://www.worldatlas.com/webimage/countrys/namerica/usstates/outline/va.gif" class="smallmap" style="display: block; width:120px;height:50px; float: left; opacity: 0.65; margin-top: 15px; margin-right: 10px;">            
-            <img src="https://toolkit.climate.gov/sites/default/files/SE_vulnerability_to_SLR_12967_v3.png" class="largemap" style="border-style: solid; border-width: 2px; display: none; height: 550px; width: 598px; position: absolute; z-index: 50;">
+        <div class= "headline" style="width: 100%; height: 100%">            
+            <img src="https://toolkit.climate.gov/sites/default/files/SE_vulnerability_to_SLR_12967_v3.png" class="largemap">
+            <img src="http://www.worldatlas.com/webimage/countrys/namerica/usstates/outline/va.gif" class="smallmap">
+            <svg id="target" style="display: block; float: left; z-index: 100; position: absolute;" xmlns="http://www.w3.org/2000/svg" version="1.1">
+                <circle cx="100" cy="50" r="10" stroke="red" stroke-width="1=" fill="none" />
+            </svg> 
             <p style="float: left; font-size: 3.5em; margin-bottom: 10px; margin-top: 10px; font-family: Buenard; line-height: 100%"> Virginia Adaptation </p>
             <img src="http://www.vims.edu/img/mobile_dark_logo.png" style="width:140px;height:35px; float: right; opacity: 0.7; margin-top: 15px; margin-right: 10px;">    
         </div>       
     </div>
-    <div class="subhead" style="width: 750px; margin-top: -20px;">    
+    <div id="subhead" style="width: 750px; margin-top: -20px;">    
         <p style="line-height: 120%; font-size: 0.85em; margin-bottom: 10px; opacity: 0.7; font-family: yantramanav; font-weight: 400;"> COASTAL VIRGINIA IS AMONG THE MOST VULNERABLE REGIONS TO CLIMATE CHANGE IN THE UNITED STATES. THE NETWORK VISUALIZATION BELOW DISPLAYS CURRENT ADAPTATION EFFORTS TO SEA LEVEL RISE AND FLOODING. </p>
         <p style="width: 450px; font-size: 0.75em; margin-bottom: 10px; opacity: 0.5; font-family: ROBOTO;">--- Click on a node to view more information about the organization. Click on the same node again to remove the dashboard. To display organizations from only certain sectors, click on the buttons below to remove their corresponding nodes.</p>
     </div>   
@@ -27,7 +30,7 @@
         <a href="#" class="myButton">Sort by Project</a>
     </div>      
 --->    
-    <div class="legend;" style="margin-top: 0px; margin-bottom: 15px;">
+    <div id="legend;" style="margin-top: 0px; margin-bottom: 15px;">
         
         <div class="ngolegend item">
             <svg height="20" width="300">

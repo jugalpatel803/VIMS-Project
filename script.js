@@ -1,10 +1,10 @@
-var width = 1280,
+var width = 1400,
     height = 900;
 
 var force = d3.layout.force()
-        .charge(-850)
-        .friction(0.8)
-        .linkDistance(150)
+        .charge(-950)
+        .friction(0.6)
+        .linkDistance(160)
         .size([width, height]);
 
 var svg = d3.select(".viz").append("svg")
@@ -22,7 +22,7 @@ var color = d3.scale.category10();
 
  // <!------ JSON DATA LOAD ------->
 
-d3.json("https://api.myjson.com/bins/1wh5f", function (error, json) {
+d3.json("https://api.myjson.com/bins/4thbj", function (error, json) {
     "use strict";
     force
         .nodes(json.nodes)
@@ -64,7 +64,13 @@ d3.json("https://api.myjson.com/bins/1wh5f", function (error, json) {
             .style('font-size', 10);
     }
 
+
    // <!------ DASHBOARD CLICK TOGGLE ------->
+   var items = [];
+   $(".item").each(function(){
+     items.push($(this).find("text").text())
+   })
+   
     
     var node = svg.selectAll(".node")
             .data(json.nodes)
@@ -76,6 +82,11 @@ d3.json("https://api.myjson.com/bins/1wh5f", function (error, json) {
             .on("mouseover", mouseover)
             .on("mouseout", mouseout)
             .on("click", function (d) {
+              
+    
+              
+              if($.inArray(d.name, items) !== -1){return}
+              
                 if (dashboard.data && d.description === dashboard.data.description) {
         //if clicked on the same node again close
                     dashboard.classed("open", false);
@@ -153,6 +164,26 @@ d3.json("https://api.myjson.com/bins/1wh5f", function (error, json) {
                     .style("font-size", "12px");
             })
             .call(force.drag);
+            
+/* CONVERT "LINKS" IN JSON TO HREF IN VIZ DASHBOARD 
+
+var output = "";
+
+for (var i = 0; i <= nodes.link.length; i++) {
+  for (key in nodes.link[i]) {
+    if (json.link[i].hasOwnProperty(key)) {
+      output += '<li>' +
+      '<a href = "' + nodes.link[i][key] +
+      '">' + key + '</a>' +
+      '</li>';
+    } // hasOwnProperty check
+  } // for each object
+} // for each array element
+
+var update = document.getELementByClass('dashboard');
+update.innerHTML = output;
+
+*/
 
  // <!------ NODE NAMES ------->     
     
@@ -182,6 +213,9 @@ d3.json("https://api.myjson.com/bins/1wh5f", function (error, json) {
  // <!------ PHYSICS ENGINE -------> 
     
     force.on("tick", function () {
+        node.attr("cx", function(d) { return d.x = Math.max(200, Math.min(width - 0, d.x)); })
+            .attr("cy", function(d) { return d.y = Math.max(20, Math.min(height - 10, d.y)); });      
+      
         link.attr("x1", function (d) { return d.source.x; })
             .attr("y1", function (d) { return d.source.y; })
             .attr("x2", function (d) { return d.target.x; })
@@ -203,23 +237,23 @@ $(".item").click(function () {
     .filter(function(d,i){
       return d3.select(this).attr("data-type") == text;
     })
-    .style("opacity",0)
+    .style("opacity", 0)
        d3.selectAll(".link")
     .filter(function(d,i){
       return d3.select(this).attr("data-type") == text;
     })
-    .style("opacity",0)
+    .style("opacity", 0)
     }else {
        d3.selectAll(".node")
     .filter(function(d,i){
       return d3.select(this).attr("data-type") == text;
     })
-    .style("opacity",1)
+    .style("opacity", 1)
        d3.selectAll(".link")
     .filter(function(d,i){
       return d3.select(this).attr("data-type") == text;
     })
-    .style("opacity",1)
+    .style("opacity", 1).duration(1000)
     }
   
 });
