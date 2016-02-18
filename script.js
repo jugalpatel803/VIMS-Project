@@ -27,13 +27,7 @@ var target = d3.select("#target").transition()
     .attr("r", 23)
     .duration (1000);
 
-var sectors = {
-    "Academia": 0,
-    "Non-Governmental Organization": 0,
-    "Commonwealth of Virginia": 0,
-    "Federal": 0,
-    "Military": 0
-};
+var sectors = {};
 
 // <!------ JSON DATA LOAD ------->
 Tabletop.init({
@@ -46,24 +40,27 @@ function prepData(nodes) {
     "use strict";
     var index = nodes.length;
     var sectorNodes = [];
-    for (var s in sectors) {
-        sectorNodes.push({
-            name: s,
-            Sector: s,
-            link: "",
-            description: "Click on organizations to view further details regarding their work.",
-            contact: "",
-            projects: "",
-            reports: "",
-            id: index
-        });
-        sectors[s] = index;
-        index++;
-    }
 
     // now build the links
     var links = [];
     for (var n in nodes) {
+        var sectorName = nodes[n]["attribute/0"];
+        // debugger;
+        if (typeof sectors[sectorName] === "undefined") {
+            // sectors[sectorName] = 0;
+            sectorNodes.push({
+                name: s,
+                Sector: s,
+                link: "",
+                description: "Click on organizations to view further details regarding their work.",
+                contact: "",
+                projects: "",
+                reports: "",
+                id: index
+            });
+            sectors[sectorName] = index;
+            index++;        
+        }
         links.push({
             source: sectors[nodes[n]["attribute/0"]],
             target: parseInt(n),
@@ -84,7 +81,6 @@ function prepData(nodes) {
 
 function buildChart(nodes) {
     var json = prepData(nodes);
-
     force
         .nodes(json.nodes)
         .links(json.links)
