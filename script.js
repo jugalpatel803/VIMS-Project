@@ -20,6 +20,13 @@ var dashboard = d3.select("body").append("section")
 
 var color = d3.scale.category10();
 
+var target = d3.select("#target").transition()
+  .attr("r", 15)
+  .duration (2000)
+  .transition()
+    .attr("r", 23)
+    .duration (1000);
+
 var sectors = {
     "Academia": 0,
     "Non-Governmental Organization": 0,
@@ -141,20 +148,28 @@ function buildChart(nodes) {
             if (dashboard.data && d.description === dashboard.data.description) {
                 // if clicked on the same node again close
                 dashboard.classed("open", false);
-                dashboard
-                    .transition()
-                    .style("margin-left", "-375px")
-                    .duration(1000);
-                dashboard.data = undefined;
-                return;
-            }
-            dashboard.data = d;
-            dashboard.classed("open", true);
-            dashboard
-                .transition()
-                .style("margin-left", "0px")
-                .duration(1000);
-            d3.selectAll(".text-tip").remove();
+                    dashboard
+                        .transition()
+                        .style("margin-left", "-450px")
+                        .duration(900);
+                    svg
+                        .transition()
+                        .style("margin-left", "0px")
+                        .duration(1250);    
+                    dashboard.data = undefined;
+                    return;
+                }
+                    dashboard.data = d;
+                    dashboard.classed("open", true);
+                    dashboard
+                        .transition()
+                        .style("margin-left", "0px")
+                        .duration(900);
+                    svg
+                        .transition()
+                        .style("margin-left", "300px")
+                        .duration(1250);      
+                d3.selectAll(".text-tip").remove();
 
             //* <!------ DASHBOARD INFORMATION ------->
             dashboard.append("text")
@@ -252,7 +267,7 @@ function buildChart(nodes) {
     // <!------ NODE ATTRIBUTES ------->
     node.append("circle")
         .attr("class", "node")
-        .attr("r", 5)
+        .attr("r", 4)
         .attr("opacity", 0.65)
         .style("fill", function (d) {
             return color(d.Sector);
@@ -263,7 +278,7 @@ function buildChart(nodes) {
     // <!------ PHYSICS ENGINE ------->
     force.on("tick", function () {
         node.attr("cx", function (d) {
-            return d.x = Math.max(200, Math.min(width - 0, d.x));
+            return d.x = Math.max(100, Math.min(width - 0, d.x));
         })
         .attr("cy", function (d) {
             return d.y = Math.max(20, Math.min(height - 10, d.y));
